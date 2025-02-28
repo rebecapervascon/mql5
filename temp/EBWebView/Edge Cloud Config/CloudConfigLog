@@ -1,0 +1,36 @@
+{
+   "feature_content": {
+      "operation_config": "{\r\n  \"data\": {\r\n    \"edge_operation_config\": {\r\n      \"edge_ai_assistant\": {\r\n        \"dynamic_config\": {\r\n          \"resources\": {\r\n            \"2\": {\r\n              \"untrusted_js\": \"https://edge-cloud-resource-static.azureedge.net/consumer/ai-assistant/alpha/v2.js\"\r\n            }\r\n          }\r\n        }\r\n      },\r\n      \"edge_drop\": {\r\n        \"manifest_stable\": {\r\n          \"js\": \"https://edge-consumer-static.azureedge.net/edropstatic/2025/02/25/1/static/js/main.915ce316.js\",\r\n          \"css\": \"https://edge-consumer-static.azureedge.net/edropstatic/2025/02/25/1/static/css/main.2a8c2845.css\",\r\n          \"version\": 138\r\n        },\r\n        \"manifest_canary\": {\r\n          \"js\": \"https://edge-consumer-static.azureedge.net/edropstatic/2025/02/25/1/static/js/main.915ce316.js\",\r\n          \"css\": \"https://edge-consumer-static.azureedge.net/edropstatic/2025/02/25/1/static/css/main.2a8c2845.css\",\r\n          \"version\": 138\r\n        },\r\n        \"version\": \"1.0.27\"\r\n      },\r\n      \"edge_media_v2\": {\r\n        \"manifest_canary\": {\r\n          \"sidebar\": {\r\n            \"allowlist_for_entire_experience\": [\r\n              \"spotify.com\",\r\n              \"youtube.com\"\r\n            ]\r\n          }\r\n        },\r\n        \"manifest_stable\": {\r\n          \"sidebar\": {\r\n            \"allowlist_for_entire_experience\": [\r\n              \"spotify.com\",\r\n              \"youtube.com\"\r\n            ]\r\n          }\r\n        },\r\n        \"version\": \"1.0.1\"\r\n      },\r\n      \"edge_mouse_gesture\": {\r\n        \"blocklist\": [\r\n          \"https://earth.google.com\",\r\n          \"https://www.figma.com\",\r\n          \"https://map.baidu.com\",\r\n          \"https://maps.gaode.com\",\r\n          \"https://app.diagrams.net\"\r\n        ],\r\n        \"version\": \"1.0.2\"\r\n      },\r\n      \"edge_screenshot\": {\r\n        \"dynamic_config\": {\r\n          \"resources\": {\r\n            \"2\": {\r\n              \"untrusted_js\": \"https://edge-consumer-static.azureedge.net/screenshot/alpha2024/v9.js\"\r\n            }\r\n          }\r\n        }\r\n      }\r\n    }\r\n  },\r\n  \"version\": \"1.1.24\"\r\n}"
+   },
+   "history_infos": {
+      "2025/2/27 15:13:45:599UTC": {
+         "action": "Check",
+         "md5": "0vYwuIx+NaeimrOHLo7AZw==",
+         "message": "Remote MD5:0vYwuIx+NaeimrOHLo7AZw==, Config updated.. ",
+         "success": true,
+         "time": "2025/2/27 15:13:45:599UTC",
+         "url": "Dp0/pJywAxT7OJsto1cFSzyFmeCXF1MTWQxyMdCGNSot5r+6T9LG9JJdrs1e0ZIXgvH1yCYlP0qQouad5+6zlkVwYg8kAPu0lTwTAAjRKM7ZsXsyXknid4UZncvIknrbDrDnqwG452Y="
+      },
+      "2025/2/27 15:13:45:616UTC": {
+         "action": "Fetch",
+         "md5": "zmKLvgfVJX+qGJ0lfkxMJg==",
+         "message": "Remote MD5: 0vYwuIx+NaeimrOHLo7AZw==, Fetched to local",
+         "success": true,
+         "time": "2025/2/27 15:13:45:616UTC",
+         "url": "Dp0/pJywAxT7OJsto1cFSzyFmeCXF1MTWQxyMdCGNSot5r+6T9LG9JJdrs1e0ZIXgvH1yCYlP0qQouad5+6zlkVwYg8kAPu0lTwTAAjRKM7ZsXsyXknid4UZncvIknrbDrDnqwG452Y="
+      },
+      "2025/2/27 15:13:45:695UTC": {
+         "action": "Fetch",
+         "md5": "jreszuNC4JgHw7Rl5BCRFw==",
+         "message": "Remote MD5: jreszuNC4JgHw7Rl5BCRFw==, Fetched to local.",
+         "success": true,
+         "time": "2025/2/27 15:13:45:695UTC",
+         "url": "Dp0/pJywAxTtKJ0851dHQS2G0byfDV8URBx4eteTJC5q6/SvGsPR95ZMpdxf3JsM2PHPzSg+NVfYkvma5uq1iU9sTkIhHfKzR6bSybby3oy9Y8hqfuCzy4SCNT6MT+zkpDMZGnk5NJ+1ZPPOEgKdHsuTj455rg=="
+      }
+   },
+   "last_fetch_cycle_time": {
+      "complete": "2025/2/27 15:13:45:695UTC",
+      "end": "2025/2/27 15:13:45:695UTC",
+      "operation_config": "2025/2/27 15:13:45:695UTC"
+   }
+}
