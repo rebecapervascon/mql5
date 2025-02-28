@@ -81,7 +81,8 @@ long           last_trade_time=0;
 void OnDeinit(const int reason)
   {
 //---
-
+   ResetTicks();
+   
   }
 
 
